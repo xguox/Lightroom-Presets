@@ -1,0 +1,21 @@
+s = {
+	internalName = "(B&W) Red Filter (High Contrast)",
+	title = "(B&W) Red Filter (High Contrast)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -25,
+			GrayMixerBlue = -25,
+			GrayMixerGreen = -5,
+			GrayMixerMagenta = 40,
+			GrayMixerOrange = 40,
+			GrayMixerPurple = -25,
+			GrayMixerRed = 40,
+			GrayMixerYellow = 40,
+		},
+		uuid = "E4AE825E-E08C-11DB-8C46-001124CE3ABE",
+	},
+	version = 0,
+}

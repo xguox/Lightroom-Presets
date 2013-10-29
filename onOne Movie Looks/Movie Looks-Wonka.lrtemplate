@@ -1,0 +1,27 @@
+s = {
+	id = "C055FF89-82C7-404F-83BF-DE2A0DC2EF18",
+	internalName = "Wonka",
+	title = "Movie Looks-Wonka",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = -30,
+			ColorNoiseReduction = 100,
+			ColorNoiseReductionDetail = 50,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			LuminanceNoiseReductionContrast = 0,
+			LuminanceNoiseReductionDetail = 50,
+			LuminanceSmoothing = 100,
+			ProcessVersion = "6.7",
+			Saturation = 20,
+			SharpenDetail = 0,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 3,
+			Sharpness = 150,
+			WhiteBalance = "As Shot",
+		},
+		uuid = "B2839779-D08D-404C-8287-067CFD17F4A9",
+	},
+	version = 0,
+}

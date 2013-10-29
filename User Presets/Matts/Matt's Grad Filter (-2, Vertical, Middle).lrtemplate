@@ -1,0 +1,42 @@
+s = {
+	id = "3829B5FB-B9B5-4BBA-8966-15F62E3C845E",
+	internalName = "Matt's Grad Filter (-2, Vertical, Middle)",
+	title = "Matt's Grad Filter (-2, Vertical, Middle)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "A289AB3D-D5F2-4ECB-92C2-8A64160EBC04",
+					CorrectionMasks = {
+						{
+							FullX = 0.665729,
+							FullY = 0.502648,
+							MaskID = "1F42AA34-B271-4F9F-BC36-5F95C5A1067F",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.347795,
+							ZeroY = 0.504788,
+						},
+					},
+					CorrectionReferenceX = 0.506762,
+					CorrectionReferenceY = 0.503718,
+					LocalBrightness = 0,
+					LocalClarity = 1,
+					LocalContrast = 0,
+					LocalExposure = -0.5,
+					LocalSaturation = 0.52809,
+					LocalSharpness = 0,
+					LocalToningHue = 0,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+		},
+		uuid = "BA8F2689-0771-4002-8805-06C8C7BE16E8",
+	},
+	version = 0,
+}

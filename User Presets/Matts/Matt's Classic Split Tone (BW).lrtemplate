@@ -1,0 +1,23 @@
+s = {
+	internalName = "Matt's Classic Split Tone (BW)",
+	title = "Matt's Classic Split Tone (BW)",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			ConvertToGrayscale = true,
+			EnableLensCorrections = true,
+			EnableSplitToning = true,
+			Shadows = 10,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 23,
+			SplitToningHighlightSaturation = 16,
+			SplitToningShadowHue = 38,
+			SplitToningShadowSaturation = 24,
+			VignetteAmount = -66,
+			VignetteMidpoint = 27,
+		},
+		uuid = "8FE74C77-5B8E-4599-96E1-1FAE392ED1B6",
+	},
+	version = 0,
+}

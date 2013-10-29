@@ -1,0 +1,33 @@
+s = {
+	internalName = "Tone Curve - Strong Contrast",
+	title = "1.12 - More Contrast",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = -15,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 5,
+			ParametricLights = 15,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -5,
+			ToneCurve = {
+				0,
+				0,
+				32,
+				22,
+				64,
+				56,
+				128,
+				128,
+				192,
+				196,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+		},
+		uuid = "14094B79-8EB9-4A4B-9379-0AB1A527EEC6",
+	},
+	version = 0,
+}

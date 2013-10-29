@@ -1,0 +1,48 @@
+s = {
+	id = "D728662A-4FF5-4327-A6AA-444291159768",
+	internalName = "Cross Process Cyan",
+	title = "Cross Process-Cyan",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 25,
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				22,
+				254,
+				202,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				29,
+				3,
+				255,
+				255,
+			},
+			Vibrance = -11,
+		},
+		uuid = "7F1F3C64-AE13-4B08-8715-04F23D50B4FE",
+	},
+	version = 0,
+}

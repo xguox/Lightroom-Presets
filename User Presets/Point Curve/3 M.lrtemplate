@@ -1,0 +1,31 @@
+s = {
+	internalName = "3 M",
+	title = "3 M",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				64,
+				192,
+				130,
+				64,
+				192,
+				192,
+				255,
+				0,
+			},
+			ToneCurveName = "Custom",
+		},
+		uuid = "2DA426EB-8B70-4011-A76A-6A0500EB27E8",
+	},
+	version = 0,
+}

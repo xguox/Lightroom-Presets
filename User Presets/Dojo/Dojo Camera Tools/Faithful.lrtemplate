@@ -1,0 +1,22 @@
+s = {
+	id = "92C9661D-E176-4A54-9445-ACD1DD6591CD",
+	internalName = "Canon - Faithful",
+	title = "Faithful",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Faithful beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "8F6E7A97-CC45-4154-B4F8-25B7494689C8",
+	},
+	version = 0,
+}

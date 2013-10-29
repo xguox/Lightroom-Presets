@@ -1,0 +1,32 @@
+s = {
+	internalName = "WOW-b_Auto-Tone+Crv_02",
+	title = "WOW-b_Auto-Tone+Crv_02",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = -30,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				32,
+				22,
+				64,
+				56,
+				128,
+				128,
+				192,
+				196,
+				255,
+				255,
+			},
+		},
+		uuid = "1BE7505D-11BE-482B-80E0-038CEDE6196D",
+	},
+	version = 0,
+}

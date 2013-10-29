@@ -1,0 +1,22 @@
+s = {
+	id = "D30745A7-67BC-4452-A08C-3E62C85264E8",
+	internalName = "Nikon - Vivid",
+	title = "Nikon - Vivid",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Vivid beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "8E1158DF-E515-4F13-83F0-BBB345D7CEFC",
+	},
+	version = 0,
+}

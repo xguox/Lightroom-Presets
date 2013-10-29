@@ -1,0 +1,22 @@
+s = {
+	id = "26B64D8F-EF2F-4FE8-8E5A-16F1CB0CC41E",
+	internalName = "Canon - Neutral",
+	title = "Neutral",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Neutral beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "FC4A04B6-50B0-4503-B75C-FC3C30ABB49D",
+	},
+	version = 0,
+}

@@ -1,0 +1,32 @@
+s = {
+	internalName = "\"M\" Curve",
+	title = "3 M",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				64,
+				192,
+				130,
+				64,
+				192,
+				192,
+				255,
+				0,
+			},
+			ToneCurveName = "Custom",
+		},
+		uuid = "14E7FFCE-9D50-4F28-8886-D66D88FE7B1C",
+	},
+	version = 0,
+	-- Joe Doolittle
+}

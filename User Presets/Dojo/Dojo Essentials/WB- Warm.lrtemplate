@@ -1,0 +1,14 @@
+s = {
+	internalName = "WB: Warm",
+	title = "WB: Warm",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "5C64E358-B959-421F-BBE7-B79E4057350A",
+	},
+	version = 1.0,
+}

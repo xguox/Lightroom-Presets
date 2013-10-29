@@ -1,0 +1,18 @@
+s = {
+	internalName = "WOW-d_BnW_00_Auto+Tone",
+	title = "WOW-d_BnW_00_Auto+Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoGrayscaleMix = true,
+			AutoShadows = false,
+			AutoTone = true,
+			ConvertToGrayscale = true,
+		},
+		uuid = "F1692AD5-2AA2-4222-BA66-5C5187E74212",
+	},
+	version = 0,
+}

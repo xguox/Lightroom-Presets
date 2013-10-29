@@ -1,0 +1,22 @@
+s = {
+	id = "4A4F4BD2-CA4B-4F72-8786-BD39A95A5125",
+	internalName = "Canon - Standard",
+	title = "Standard",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Standard beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "C82EBCD9-F45C-4559-80D4-8A1DF80BC529",
+	},
+	version = 0,
+}

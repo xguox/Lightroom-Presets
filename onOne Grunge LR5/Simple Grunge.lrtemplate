@@ -1,0 +1,19 @@
+s = {
+	id = "60F765C3-9F4B-4B3A-89C1-F8A5D312FAC9",
+	internalName = "Simple Grunge",
+	title = "Simple Grunge",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 30,
+			ConvertToGrayscale = false,
+			IncrementalTemperature = -5,
+			IncrementalTint = 0,
+			ProcessVersion = "6.7",
+			Vibrance = -50,
+			WhiteBalance = "Custom",
+		},
+		uuid = "BB1B2559-D6F5-44DB-81C1-84C762A99DB5",
+	},
+	version = 0,
+}

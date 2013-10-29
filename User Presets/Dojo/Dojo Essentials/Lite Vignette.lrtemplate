@@ -1,0 +1,13 @@
+s = {
+	internalName = "Vignette: Lite",
+	title = "Vignette: Lite",
+	type = "Develop",
+	value = {
+		settings = {
+			VignetteAmount = 69,
+			VignetteMidpoint = 5,
+		},
+		uuid = "A241F61C-A199-43BA-8BF2-80B3C6054AC8",
+	},
+	version = 1.0,
+}

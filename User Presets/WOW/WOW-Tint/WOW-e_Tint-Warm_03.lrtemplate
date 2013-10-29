@@ -1,0 +1,17 @@
+s = {
+	internalName = "WOW-e_Tint-Warm_03",
+	title = "WOW-e_Tint-Warm_03",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 4,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 46,
+			SplitToningShadowSaturation = 50,
+		},
+		uuid = "C1EE0F21-33D8-4A29-A078-777D03F03005",
+	},
+	version = 0,
+}

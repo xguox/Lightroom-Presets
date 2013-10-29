@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's Edge Lightening 1 (Narrow)",
+	title = "Matt's Edge Lightening 1 (Narrow)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 20,
+			VignetteMidpoint = 45,
+		},
+		uuid = "AAA5C5E6-27AB-4E56-A2CD-A39C25646297",
+	},
+	version = 0,
+}

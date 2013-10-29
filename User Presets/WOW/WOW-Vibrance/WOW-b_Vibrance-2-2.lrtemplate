@@ -1,0 +1,13 @@
+s = {
+	internalName = "WOW-b_Vibrance-2",
+	title = "WOW-b_Vibrance-2",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			Vibrance = -51,
+		},
+		uuid = "E0B86B13-BD38-4D2C-BE1A-B35EF8589CD0",
+	},
+	version = 0,
+}

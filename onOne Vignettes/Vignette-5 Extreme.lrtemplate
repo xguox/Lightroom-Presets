@@ -1,0 +1,20 @@
+s = {
+	id = "2A2FE38F-0556-4FEE-A59A-BC59DD7F77FB",
+	internalName = "Vignette-5",
+	title = "Vignette-5 Extreme",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -89,
+			PostCropVignetteFeather = 96,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 27,
+			PostCropVignetteRoundness = 43,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "CB01110E-C45B-4DAC-87BF-2D2C4D141EBB",
+	},
+	version = 0,
+}

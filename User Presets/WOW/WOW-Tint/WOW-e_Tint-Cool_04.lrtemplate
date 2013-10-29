@@ -1,0 +1,17 @@
+s = {
+	internalName = "WOW-e_Tint-Cool_04",
+	title = "WOW-e_Tint-Cool_04",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 40,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 222,
+			SplitToningShadowSaturation = 32,
+		},
+		uuid = "582DE23E-FDB6-48CB-B9DF-0DD37168F52A",
+	},
+	version = 0,
+}

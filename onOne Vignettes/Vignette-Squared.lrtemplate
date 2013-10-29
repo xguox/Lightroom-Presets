@@ -1,0 +1,20 @@
+s = {
+	id = "B3FC42EC-A4A3-4328-8758-5BBA4F3163D5",
+	internalName = "Vignette-Squared",
+	title = "Vignette-Squared",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -60,
+			PostCropVignetteFeather = 85,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 21,
+			PostCropVignetteRoundness = -89,
+			PostCropVignetteStyle = 3,
+			ProcessVersion = "6.7",
+		},
+		uuid = "AE8E7B34-E944-48D4-9481-3F28939FBE4C",
+	},
+	version = 0,
+}

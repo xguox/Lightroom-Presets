@@ -1,0 +1,14 @@
+s = {
+	internalName = "5 - Heavy Vignette",
+	title = "1.32 - Heavy Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = -100,
+			VignetteMidpoint = 25,
+		},
+		uuid = "29E1FE80-3032-4C62-A7A4-1CCB8097D41D",
+	},
+	version = 0,
+}

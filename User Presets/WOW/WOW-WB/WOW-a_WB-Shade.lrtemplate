@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOW-a_WB-Shade",
+	title = "WOW-a_WB-Shade",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Shade",
+		},
+		uuid = "BEA21DFA-FF61-45D8-9DB0-E8FE9438F96F",
+	},
+	version = 0,
+}

@@ -1,0 +1,13 @@
+s = {
+	internalName = "EXP: +1.5",
+	title = "EXP: +1.5",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			Exposure = 1.5,
+		},
+		uuid = "35EB240D-0409-42A8-B8D8-0D34BFEE05CC",
+	},
+	version = 1.0,
+}

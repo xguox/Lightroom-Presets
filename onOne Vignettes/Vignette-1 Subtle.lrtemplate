@@ -1,0 +1,20 @@
+s = {
+	id = "9D8A5D9F-E0DD-4328-ABF4-3001A11F1935",
+	internalName = "Vignette-1",
+	title = "Vignette-1 Subtle",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -9,
+			PostCropVignetteFeather = 50,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 47,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "4B48E6E6-08A7-47AA-B568-354478D86937",
+	},
+	version = 0,
+}

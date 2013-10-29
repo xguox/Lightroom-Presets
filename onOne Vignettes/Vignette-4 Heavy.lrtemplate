@@ -1,0 +1,20 @@
+s = {
+	id = "4DDD74F2-0D42-44EF-8967-D9D37FF7F317",
+	internalName = "Vignette-4",
+	title = "Vignette-4 Heavy",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -55,
+			PostCropVignetteFeather = 68,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 25,
+			PostCropVignetteRoundness = 0,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "E1B4602A-2DB6-4D3A-AC3D-F1B0CB710304",
+	},
+	version = 0,
+}

@@ -1,0 +1,21 @@
+s = {
+	id = "1D193C47-57B2-4D8C-9597-AC85E434EC63",
+	internalName = "Panasonic LX2 Calibration (4400)",
+	title = "Panasonic LX2 Calibration (4400)",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 13,
+			BlueSaturation = -1,
+			CameraProfile = "ACR 3.6",
+			EnableCalibration = true,
+			GreenHue = -4,
+			GreenSaturation = 14,
+			RedHue = -6,
+			RedSaturation = 13,
+			ShadowTint = 0,
+		},
+		uuid = "CA622A32-CEA7-4409-B60C-606454EB3A33",
+	},
+	version = 0,
+}

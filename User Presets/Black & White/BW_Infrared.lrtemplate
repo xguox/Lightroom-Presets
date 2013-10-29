@@ -1,0 +1,21 @@
+s = {
+	internalName = "(B&W) Infrared",
+	title = "(B&W) Infrared",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -35,
+			GrayMixerBlue = -2,
+			GrayMixerGreen = 48,
+			GrayMixerMagenta = -54,
+			GrayMixerOrange = 0,
+			GrayMixerPurple = 0,
+			GrayMixerRed = -20,
+			GrayMixerYellow = 78,
+		},
+		uuid = "4B2EAD62-E08D-11DB-8C46-001124CE3ABE",
+	},
+	version = 0,
+}

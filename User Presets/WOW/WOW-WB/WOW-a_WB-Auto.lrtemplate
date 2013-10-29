@@ -1,0 +1,12 @@
+s = {
+	internalName = "WOW-a_WB-Auto",
+	title = "WOW-a_WB-Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "62FD4E4E-55C8-4789-B407-910D70710F7E",
+	},
+	version = 0,
+}

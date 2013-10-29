@@ -1,0 +1,21 @@
+s = {
+	internalName = "(B&W) Red Filter",
+	title = "(B&W) Red Filter",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -25,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = -5,
+			GrayMixerMagenta = -40,
+			GrayMixerOrange = 38,
+			GrayMixerPurple = -30,
+			GrayMixerRed = 40,
+			GrayMixerYellow = 36,
+		},
+		uuid = "5CB59CA0-E08E-11DB-8C46-001124CE3ABE",
+	},
+	version = 0,
+}

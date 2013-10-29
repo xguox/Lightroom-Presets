@@ -1,0 +1,14 @@
+s = {
+	internalName = "1 - No Vignette",
+	title = "1.30 - No Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "62267D49-4D5B-4045-A90A-93A73BAB141A",
+	},
+	version = 0,
+}

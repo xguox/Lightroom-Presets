@@ -1,0 +1,15 @@
+s = {
+	id = "A41C5054-1223-45CE-B2FF-5FBE24A89300",
+	internalName = "CAL Canon 30D - WB Cloudy",
+	title = "CAL Canon 30D - WB Cloudy",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6000,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "698125E5-A96F-4A34-8678-40C5A856E0EF",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "28AF56A8-E634-40C0-BB37-6C36DF7D1657",
+	internalName = "Filter-80A Cooling",
+	title = "Filter-80A Cooling",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 85,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 234,
+			SplitToningShadowSaturation = 73,
+		},
+		uuid = "C82332EC-796D-46DF-969E-4220A93D7A24",
+	},
+	version = 0,
+}

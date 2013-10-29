@@ -1,0 +1,15 @@
+s = {
+	id = "9BA275AF-2937-497E-AFA8-C73ECFF60389",
+	internalName = "CAL Canon 30D - WB Flash",
+	title = "CAL Canon 30D - WB Flash",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6200,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "A3A482F5-F74B-4F06-AD75-B77872C7F7C5",
+	},
+	version = 0,
+}

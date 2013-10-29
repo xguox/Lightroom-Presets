@@ -1,0 +1,21 @@
+s = {
+	id = "77AA2748-EB27-45AB-B8FB-EB147AA5D051",
+	internalName = "CAL Canon 30D - ACR Calibration Only",
+	title = "CAL Canon 30D - ACR Calibration Only",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 4,
+			BlueSaturation = -16,
+			CameraProfile = "ACR 3.4",
+			EnableCalibration = true,
+			GreenHue = -22,
+			GreenSaturation = -19,
+			RedHue = -23,
+			RedSaturation = 51,
+			ShadowTint = 0,
+		},
+		uuid = "AFCBE7C8-4AB6-4B78-AC70-A726CCC9D5CE",
+	},
+	version = 0,
+}

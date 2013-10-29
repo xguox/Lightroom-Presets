@@ -1,0 +1,16 @@
+s = {
+	internalName = "Matt's Portrait Sharpening (A lot)",
+	title = "Matt's Portrait Sharpening (A lot)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 65,
+			SharpenEdgeMasking = 90,
+			SharpenRadius = 1,
+			Sharpness = 110,
+		},
+		uuid = "38FAA21E-DD12-48B9-961B-E50B4E7FD95D",
+	},
+	version = 0,
+}

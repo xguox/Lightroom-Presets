@@ -1,0 +1,22 @@
+s = {
+	id = "AD493C34-F3DB-4094-9D1A-3AD3214CED88",
+	internalName = "Canon - Landscape",
+	title = "Landscape",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Landscape beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "9D59E85C-A877-41F6-B31C-14CE65D55380",
+	},
+	version = 0,
+}

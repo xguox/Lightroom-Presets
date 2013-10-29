@@ -1,0 +1,48 @@
+s = {
+	id = "D921CEF6-0192-4FA7-9B3E-6795D5CF41AD",
+	internalName = "Cross Process Red",
+	title = "Cross Process-Red",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity2012 = 25,
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				23,
+				255,
+				226,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				30,
+				0,
+				232,
+				255,
+			},
+			Vibrance = 10,
+		},
+		uuid = "8A298D54-8F6E-4749-8D43-2EDE35C9BA1A",
+	},
+	version = 0,
+}

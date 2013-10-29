@@ -1,0 +1,15 @@
+s = {
+	id = "0AFCDB02-346D-451D-9D1C-93E2F06AA706",
+	internalName = "CAL Canon 30D - WB Shade",
+	title = "CAL Canon 30D - WB Shade",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7000,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "59037A62-ADCE-44FB-B56A-7F740F07DB3F",
+	},
+	version = 0,
+}

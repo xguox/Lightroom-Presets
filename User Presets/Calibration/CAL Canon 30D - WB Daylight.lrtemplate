@@ -1,0 +1,15 @@
+s = {
+	id = "E2FE962A-47C4-4F36-903E-4B99DAB8182D",
+	internalName = "CAL Canon 30D - WB Daylight",
+	title = "CAL Canon 30D - WB Daylight",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5200,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "4B9E2F29-73C8-43D0-ADF7-A042E9A4B4D2",
+	},
+	version = 0,
+}

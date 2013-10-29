@@ -1,0 +1,20 @@
+s = {
+	id = "A78EC9A6-5BEF-4D78-8BDA-C528B31E41F6",
+	internalName = "Vignette-3",
+	title = "Vignette-3 Medium",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -25,
+			PostCropVignetteFeather = 62,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 37,
+			PostCropVignetteRoundness = 25,
+			PostCropVignetteStyle = 1,
+			ProcessVersion = "6.7",
+		},
+		uuid = "CB649486-B174-40C9-AF4C-B9385B10E75E",
+	},
+	version = 0,
+}

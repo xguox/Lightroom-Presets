@@ -1,0 +1,27 @@
+s = {
+	id = "A1AF8F1E-66A2-44C2-A54B-3704B8565859",
+	internalName = "B&W Infrared Filter",
+	title = "Toners-B&W Infrared ",
+	type = "Develop",
+	value = {
+		settings = {
+			Blacks2012 = 1,
+			Contrast2012 = 19,
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			Exposure2012 = 0.1,
+			GrayMixerAqua = 78,
+			GrayMixerBlue = -100,
+			GrayMixerGreen = 100,
+			GrayMixerMagenta = 64,
+			GrayMixerOrange = 50,
+			GrayMixerPurple = -8,
+			GrayMixerRed = 21,
+			GrayMixerYellow = 100,
+			ProcessVersion = "6.7",
+			Whites2012 = 4,
+		},
+		uuid = "AF7498BB-FE29-4CBB-AFB7-DC3750040C0F",
+	},
+	version = 0,
+}

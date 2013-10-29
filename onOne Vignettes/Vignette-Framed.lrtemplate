@@ -1,0 +1,20 @@
+s = {
+	id = "0A8455B8-E6D8-4583-A148-D07529307455",
+	internalName = "Vignettes-Framed",
+	title = "Vignette-Framed",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableEffects = true,
+			PostCropVignetteAmount = -100,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteHighlightContrast = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = -100,
+			PostCropVignetteStyle = 3,
+			ProcessVersion = "6.7",
+		},
+		uuid = "2BA7F674-763B-4D32-BA32-021CFEB2605D",
+	},
+	version = 0,
+}

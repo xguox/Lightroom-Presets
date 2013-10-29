@@ -1,0 +1,32 @@
+s = {
+	internalName = "\"Mild M\" Curve",
+	title = "2 Mild M",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				64,
+				90,
+				128,
+				128,
+				168,
+				194,
+				255,
+				255,
+			},
+			ToneCurveName = "Custom",
+		},
+		uuid = "1AB6897B-5206-4D70-886B-591874F184D2",
+	},
+	version = 0,
+	-- Joe Doolittle
+}

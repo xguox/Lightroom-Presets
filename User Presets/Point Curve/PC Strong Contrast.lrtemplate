@@ -1,0 +1,34 @@
+s = {
+	internalName = "Strong Contrast",
+	title = "5 Strong Contrast",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = -8,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 13,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				32,
+				16,
+				64,
+				50,
+				128,
+				128,
+				192,
+				202,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "C7047B9C-F723-46C6-A41A-2B500B1A2A47",
+	},
+	version = 0,
+	-- Joe Doolittle
+}

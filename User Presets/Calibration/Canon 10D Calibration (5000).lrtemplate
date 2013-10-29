@@ -1,0 +1,21 @@
+s = {
+	id = "975A3FE8-156D-443C-ACBB-3E1EC95377B1",
+	internalName = "Canon 10D Calibration (5000)",
+	title = "Canon 10D Calibration (5000)",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 12,
+			BlueSaturation = 25,
+			CameraProfile = "ACR 2.4",
+			EnableCalibration = true,
+			GreenHue = -16,
+			GreenSaturation = -11,
+			RedHue = -3,
+			RedSaturation = 32,
+			ShadowTint = 0,
+		},
+		uuid = "A2F8A822-7313-4E8C-AB05-B5CAD484AC04",
+	},
+	version = 0,
+}

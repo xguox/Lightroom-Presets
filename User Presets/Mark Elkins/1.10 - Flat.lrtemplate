@@ -1,0 +1,25 @@
+s = {
+	internalName = "Tone Curve - Flat",
+	title = "1.10 - Flat",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "718106C4-1685-4DDC-8A68-34936F77AA6F",
+	},
+	version = 0,
+}

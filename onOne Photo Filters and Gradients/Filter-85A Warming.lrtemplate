@@ -1,0 +1,19 @@
+s = {
+	id = "CEB29106-1CB0-46A5-8C42-FCB8EBAC8D18",
+	internalName = "Filter-85A Warming",
+	title = "Filter-85A Warming",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 4,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 46,
+			SplitToningShadowSaturation = 50,
+		},
+		uuid = "CB31E281-F34C-4060-A7C2-A7EA597178AC",
+	},
+	version = 0,
+}

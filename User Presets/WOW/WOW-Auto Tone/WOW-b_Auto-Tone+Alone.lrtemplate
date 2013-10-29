@@ -1,0 +1,29 @@
+s = {
+	internalName = "WOW-b_Auto-Tone+Alone",
+	title = "WOW-b_Auto-Tone+Alone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "22464018-D7B6-43B3-A2C3-D7D0F29271D0",
+	},
+	version = 0,
+}

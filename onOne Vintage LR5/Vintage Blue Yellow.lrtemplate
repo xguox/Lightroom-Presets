@@ -1,0 +1,47 @@
+s = {
+	id = "4F3F4A45-3885-40A9-9F0C-8420D24B4CFE",
+	internalName = "Vintage Blue Yellow",
+	title = "Vintage Blue Yellow",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ProcessVersion = "6.7",
+			Saturation = -20,
+			ToneCurveName2012 = "Custom",
+			ToneCurvePV2012 = {
+				0,
+				10,
+				255,
+				250,
+			},
+			ToneCurvePV2012Blue = {
+				0,
+				45,
+				255,
+				213,
+			},
+			ToneCurvePV2012Green = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurvePV2012Red = {
+				0,
+				0,
+				255,
+				255,
+			},
+		},
+		uuid = "4FA5F993-B697-47F6-A0F6-2FACCB217EF1",
+	},
+	version = 0,
+}

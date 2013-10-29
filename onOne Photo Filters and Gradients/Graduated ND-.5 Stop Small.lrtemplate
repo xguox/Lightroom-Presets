@@ -1,0 +1,47 @@
+s = {
+	id = "97D8A8EC-8B58-41DC-9F2C-2EC006F0BE1A",
+	internalName = "Graduated ND-.5 Stop Small",
+	title = "Graduated ND-.5 Stop Small",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "3E654296-35B5-42B8-82D8-C71E0E1D85BF",
+					CorrectionMasks = {
+						{
+							FullX = 0.456437,
+							FullY = 0.013485,
+							MaskID = "110B5D71-A2DD-44A5-BF39-7AC90DA5CE3B",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.457948,
+							ZeroY = 0.499308,
+						},
+					},
+					CorrectionReferenceX = 0.457193,
+					CorrectionReferenceY = 0.256396,
+					LocalBrightness = -0.1,
+					LocalClarity = 0.346322,
+					LocalContrast = 0.149425,
+					LocalContrast2012 = 0.158621,
+					LocalExposure = -0.1125,
+					LocalExposure2012 = -0.125,
+					LocalHighlights2012 = -0.2,
+					LocalSaturation = 0.149425,
+					LocalSharpness = 0.255172,
+					LocalToningHue = 73,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+			ProcessVersion = "6.7",
+			orientation = "AB",
+		},
+		uuid = "D5A66EC5-AF15-400E-9310-C49861ED0E90",
+	},
+	version = 0,
+}

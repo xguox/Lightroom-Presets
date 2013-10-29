@@ -1,0 +1,33 @@
+s = {
+	internalName = "Matt's Vividity - Level 2",
+	title = "Matt's Vividity - Level 2",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			Clarity = 30,
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 4,
+			IncrementalTint = 0,
+			ParametricDarks = -4,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 56,
+			ParametricLights = -11,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -26,
+			Shadows = 6,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+			Vibrance = 60,
+			WhiteBalance = "Custom",
+		},
+		uuid = "9495A0C8-98E1-43CC-8A14-031EA1767347",
+	},
+	version = 0,
+}

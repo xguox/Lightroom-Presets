@@ -1,0 +1,19 @@
+s = {
+	id = "1C95F977-6D51-4C80-BD47-BBC977CC39F9",
+	internalName = "Filter-81A Warming",
+	title = "Filter-81A Warming",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			ProcessVersion = "6.7",
+			SplitToningBalance = 85,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 50,
+			SplitToningShadowSaturation = 73,
+		},
+		uuid = "9FBC7FB6-3017-418D-9BBD-C2AA812D4BF4",
+	},
+	version = 0,
+}

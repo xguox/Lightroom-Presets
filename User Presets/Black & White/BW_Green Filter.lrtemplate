@@ -1,0 +1,21 @@
+s = {
+	internalName = "(B&W) Green Filter",
+	title = "(B&W) Green Filter",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 17,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = 30,
+			GrayMixerMagenta = 0,
+			GrayMixerOrange = 30,
+			GrayMixerPurple = 0,
+			GrayMixerRed = 17,
+			GrayMixerYellow = 40,
+		},
+		uuid = "BCEE660E-E08B-11DB-8C46-001124CE3ABE",
+	},
+	version = 0,
+}

@@ -1,0 +1,33 @@
+s = {
+	internalName = "Matt's Vividity - Level 3",
+	title = "Matt's Vividity - Level 3",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			Clarity = 64,
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 6,
+			IncrementalTint = 0,
+			ParametricDarks = -4,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 61,
+			ParametricLights = -11,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = -43,
+			Shadows = 6,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Linear",
+			Vibrance = 73,
+			WhiteBalance = "Custom",
+		},
+		uuid = "CA0065A8-14C2-4106-876D-7E4D3C3DE669",
+	},
+	version = 0,
+}
