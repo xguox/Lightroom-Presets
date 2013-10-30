@@ -1,0 +1,28 @@
+s = {
+	id = "9813B883-7EA1-4A45-9E65-5F7D1776E2BB",
+	internalName = "浅蓝色渲染",
+	title = "特殊功能-偏色渲染-浅蓝色",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 217,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 217,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "DA350FD6-4C02-4E31-893C-1582FF393F6B",
+	},
+	version = 0,
+}

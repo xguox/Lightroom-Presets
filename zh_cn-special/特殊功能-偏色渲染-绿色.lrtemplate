@@ -1,0 +1,28 @@
+s = {
+	id = "BAC6B769-1DB4-43A3-BA14-4EEE5B196443",
+	internalName = "绿色渲染",
+	title = "特殊功能-偏色渲染-绿色",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 15,
+			GrayMixerGreen = -27,
+			GrayMixerMagenta = 4,
+			GrayMixerOrange = -21,
+			GrayMixerPurple = 19,
+			GrayMixerRed = -11,
+			GrayMixerYellow = -25,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 195,
+			SplitToningHighlightSaturation = 20,
+			SplitToningShadowHue = 195,
+			SplitToningShadowSaturation = 20,
+		},
+		uuid = "1BE56805-C257-49E2-899A-E3B26BCA5638",
+	},
+	version = 0,
+}

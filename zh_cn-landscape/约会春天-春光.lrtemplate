@@ -1,0 +1,21 @@
+s = {
+	id = "4950D407-45B2-4DBC-8D3E-0E1D82167E89",
+	internalName = "春意盎然（鲜艳亮白风格）",
+	title = "约会春天-春光",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 60,
+			CameraProfile = "ACR 4.4",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "4D3C9204-5C5C-4EF7-AF71-4FBC3BE42DBE",
+	},
+	version = 0,
+}

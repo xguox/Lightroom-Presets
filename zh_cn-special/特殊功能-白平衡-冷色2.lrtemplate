@@ -1,0 +1,15 @@
+s = {
+	id = "FBC12A42-C394-46CB-B614-20FD14AD76B3",
+	internalName = "冷色白平衡2",
+	title = "特殊功能-白平衡-冷色2",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "2407C2A2-71AE-4C76-9D27-7BF393E89FE3",
+	},
+	version = 0,
+}

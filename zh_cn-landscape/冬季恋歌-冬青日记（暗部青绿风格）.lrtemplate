@@ -1,0 +1,28 @@
+s = {
+	id = "B6D24C45-DF2D-423E-9894-2466A74DDD0E",
+	internalName = "暗部青绿风格",
+	title = "冬季恋歌-冬青日记（暗部青绿风格）",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 21,
+			Contrast = 0,
+			EnableSplitToning = true,
+			Exposure = 0,
+			FillLight = 23,
+			HighlightRecovery = 14,
+			Shadows = 3,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 31,
+			SplitToningHighlightSaturation = 29,
+			SplitToningShadowHue = 193,
+			SplitToningShadowSaturation = 61,
+		},
+		uuid = "04C55B6F-3316-437B-ACCF-D25CF3408347",
+	},
+	version = 0,
+}

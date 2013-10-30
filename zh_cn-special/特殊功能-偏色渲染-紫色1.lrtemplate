@@ -1,0 +1,26 @@
+s = {
+	id = "FCF06A25-D6C5-4AFE-A401-76A1517E6E46",
+	internalName = "紫色渲染1",
+	title = "特殊功能-偏色渲染-紫色1",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "CDD962A1-11C1-4789-AEB7-385AB08DBF51",
+	},
+	version = 0,
+}

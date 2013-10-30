@@ -1,0 +1,13 @@
+s = {
+	id = "82DF0BAB-E48B-4F0D-A1E8-9513A5578CEC",
+	internalName = "白平衡自动",
+	title = "特殊功能-白平衡-自动",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "06AAC39B-954E-4D16-86B1-3FB0E448B9AC",
+	},
+	version = 0,
+}

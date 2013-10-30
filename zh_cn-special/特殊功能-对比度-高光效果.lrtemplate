@@ -1,0 +1,22 @@
+s = {
+	id = "07DCC823-F8DB-4487-A847-05E93B8A322E",
+	internalName = "高光效果",
+	title = "特殊功能-对比度-高光效果",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 13,
+			Contrast = 30,
+			ConvertToGrayscale = false,
+			Exposure = 2.3829789161682,
+			Saturation = 6,
+			Shadows = 9,
+		},
+		uuid = "15AFA521-20E5-4D74-AC8D-0081B025B97E",
+	},
+	version = 0,
+}

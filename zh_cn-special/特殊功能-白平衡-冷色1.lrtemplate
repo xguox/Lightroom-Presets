@@ -1,0 +1,15 @@
+s = {
+	id = "DE5325ED-9487-409B-BFBD-5425AFE5BA80",
+	internalName = "冷色白平衡1",
+	title = "特殊功能-白平衡-冷色1",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 4500,
+			Tint = 10,
+			WhiteBalance = "Custom",
+		},
+		uuid = "779358CB-D1D0-4E40-96EE-3AF878AE9A94",
+	},
+	version = 0,
+}

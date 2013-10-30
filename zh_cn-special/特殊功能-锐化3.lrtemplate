@@ -1,0 +1,17 @@
+s = {
+	id = "54E65412-20DF-435A-9F4B-EF2E655E382C",
+	internalName = "锐化+3",
+	title = "特殊功能-锐化3",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 90,
+			SharpenEdgeMasking = 15,
+			SharpenRadius = 1,
+			Sharpness = 110,
+		},
+		uuid = "64ED22D6-53F7-477B-8443-F8DC03982C0E",
+	},
+	version = 0,
+}

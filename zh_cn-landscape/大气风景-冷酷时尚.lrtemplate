@@ -1,0 +1,15 @@
+s = {
+	id = "136EBBC4-E29C-41F4-B496-39D7125CBF6F",
+	internalName = "冷酷时尚风偏蓝",
+	title = "大气风景-冷酷时尚",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 2850,
+			Tint = 0,
+			WhiteBalance = "Tungsten",
+		},
+		uuid = "C1E89F1E-454C-47F4-BC6F-A44E78A51775",
+	},
+	version = 0,
+}

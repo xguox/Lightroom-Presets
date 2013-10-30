@@ -1,0 +1,15 @@
+s = {
+	id = "4B987D98-AA22-48C6-BF26-78DF12A6B184",
+	internalName = "白平衡日光色调",
+	title = "特殊功能-白平衡-日光",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 10,
+			WhiteBalance = "Daylight",
+		},
+		uuid = "2B155B0F-8E80-4365-ABED-C5A3BD12252D",
+	},
+	version = 0,
+}

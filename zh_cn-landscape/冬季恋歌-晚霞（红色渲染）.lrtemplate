@@ -1,0 +1,28 @@
+s = {
+	id = "551FB797-C933-4A7F-8E38-2DE75037FD5E",
+	internalName = "晚霞（红色渲染）",
+	title = "冬季恋歌-晚霞（红色渲染）",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 54,
+			Contrast = 34,
+			EnableSplitToning = true,
+			Exposure = 0.22,
+			FillLight = 23,
+			HighlightRecovery = 32,
+			Shadows = 7,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 315,
+			SplitToningHighlightSaturation = 34,
+			SplitToningShadowHue = 56,
+			SplitToningShadowSaturation = 18,
+		},
+		uuid = "BB01159B-CFE9-4EEC-AEF8-C4F9DC1DEB6F",
+	},
+	version = 0,
+}

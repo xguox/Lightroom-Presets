@@ -1,0 +1,13 @@
+s = {
+	id = "9969BB75-BF22-4A74-A471-DDEF18748C4C",
+	internalName = "肤色润饰",
+	title = "特殊功能-皮肤-肤色润饰",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "2783C933-3D3D-4C37-B1F1-1ABDBB9D245E",
+	},
+	version = 0,
+}
