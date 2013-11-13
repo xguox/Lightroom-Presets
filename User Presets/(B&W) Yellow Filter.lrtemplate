@@ -1,0 +1,22 @@
+s = {
+	id = "A90DD118-F522-4990-B61C-6D16A656F85E",
+	internalName = "(B&W) Yellow Filter",
+	title = "(B&W) Yellow Filter",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -15,
+			GrayMixerBlue = 0,
+			GrayMixerGreen = 13,
+			GrayMixerMagenta = 25,
+			GrayMixerOrange = 36,
+			GrayMixerPurple = 12,
+			GrayMixerRed = 40,
+			GrayMixerYellow = 36,
+		},
+		uuid = "D4AEC801-0B65-42DE-86CA-6B504EF44996",
+	},
+	version = 0,
+}

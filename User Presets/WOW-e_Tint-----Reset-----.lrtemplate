@@ -1,0 +1,19 @@
+s = {
+	id = "F650011C-F0F7-4ED6-B800-D0B4B381667D",
+	internalName = "WOW-e_Tint-----Reset-----",
+	title = "WOW-e_Tint-----Reset-----",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 0,
+			SplitToningShadowSaturation = 0,
+		},
+		uuid = "8C8C1344-29FF-44FA-B53E-EBD8925EC4AC",
+	},
+	version = 0,
+}

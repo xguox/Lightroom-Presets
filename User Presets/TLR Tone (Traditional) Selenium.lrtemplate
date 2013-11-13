@@ -1,0 +1,28 @@
+s = {
+	id = "520657EE-12E7-4C07-8B37-8547D18B3C9D",
+	internalName = "TLR Tone (Traditional) Selenium",
+	title = "TLR Tone (Traditional) Selenium",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = -24,
+			SplitToningHighlightHue = 290,
+			SplitToningHighlightSaturation = 3,
+			SplitToningShadowHue = 291,
+			SplitToningShadowSaturation = 8,
+		},
+		uuid = "4E16B812-D2CC-4617-A641-67925094FDE1",
+	},
+	version = 0,
+}

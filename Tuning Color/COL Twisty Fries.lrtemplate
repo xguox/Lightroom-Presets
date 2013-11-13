@@ -1,0 +1,18 @@
+s = {
+	internalName = "COL Twisty Fries",
+	title = "COL Twisty Fries",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoShadows = false,
+			ConvertToGrayscale = false,
+			EnableGrayscaleMix = true,
+			FillLight = 50,
+			HighlightRecovery = 50,
+			Shadows = 50,
+			Vibrance = 50,
+		},
+		uuid = "A739F60A-E0B3-49E8-955F-8071DFE811ED",
+	},
+	version = 0,
+}

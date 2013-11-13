@@ -1,0 +1,18 @@
+s = {
+	id = "5D8315E2-6BCE-40DC-AC90-B3F11AFC46D2",
+	internalName = "1.01 - JPG Default",
+	title = "1.01 - JPG Default",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 0,
+			Contrast = 0,
+			Shadows = 0,
+		},
+		uuid = "EDC4C70B-0E24-4BF2-A6F7-47165B0F3440",
+	},
+	version = 0,
+}

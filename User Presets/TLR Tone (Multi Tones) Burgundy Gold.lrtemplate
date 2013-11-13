@@ -1,0 +1,28 @@
+s = {
+	id = "72FEB444-5DEB-44D1-AD3A-D6AEE802758F",
+	internalName = "TLR Tone (Multi Tones) Burgundy Gold",
+	title = "TLR Tone (Multi Tones) Burgundy Gold",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 48,
+			SplitToningHighlightHue = 34,
+			SplitToningHighlightSaturation = 13,
+			SplitToningShadowHue = 64,
+			SplitToningShadowSaturation = 31,
+		},
+		uuid = "0E29DFEE-3C08-4B0B-BD77-A697AC380F7D",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "0045AD13-AAB2-4B20-99F9-EB5ABE6BE056",
+	internalName = "WOW-f_Vignette_Lt-03",
+	title = "WOW-f_Vignette_Lt-03",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 74,
+			VignetteMidpoint = 50,
+		},
+		uuid = "19E7B594-6BCC-4B4E-8DDC-EA2AE9854258",
+	},
+	version = 0,
+}

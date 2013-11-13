@@ -1,0 +1,17 @@
+s = {
+	id = "696B27DC-9E41-43FF-8D50-CB3EEDC462E8",
+	internalName = "Matt's Cool Sunset (Level 1)",
+	title = "Matt's Cool Sunset (Level 1)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = -6,
+			IncrementalTint = 21,
+			Saturation = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "E33C0A48-5A9C-4B99-88B5-13A00F4392DD",
+	},
+	version = 0,
+}

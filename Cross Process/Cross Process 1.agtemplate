@@ -1,0 +1,15 @@
+s = {
+title = "Cross Process 1",
+type = "Develop",
+value = {
+settings = {
+ShadowlandExperimental_HighlightHue = 31.304348409176,
+ShadowlandExperimental_HighlightSaturation = 28.985506296158,
+ShadowlandExperimental_ShadowHue = 193.04347515106,
+ShadowlandExperimental_ShadowSaturation = 60.869562625885,
+ShadowlandExperimental_Version = "Shadowland_v0.02h",
+},
+uuid = "60B73C6C-0D62-4069-91D8-40B259BD0640",
+},
+}
+

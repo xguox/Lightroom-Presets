@@ -1,0 +1,28 @@
+s = {
+	id = "4DBE7F50-8CEA-40B7-8BEB-468C9362C043",
+	internalName = "TLR Tone (Traditional) Palladium",
+	title = "TLR Tone (Traditional) Palladium",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 30,
+			SplitToningHighlightSaturation = 18,
+			SplitToningShadowHue = 51,
+			SplitToningShadowSaturation = 23,
+		},
+		uuid = "C147F431-84B3-4E52-818C-935D54E115B5",
+	},
+	version = 0,
+}

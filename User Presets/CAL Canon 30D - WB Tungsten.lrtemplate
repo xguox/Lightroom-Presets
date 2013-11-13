@@ -1,0 +1,15 @@
+s = {
+	id = "5A76895E-A496-4806-AC5D-38CF84D4543F",
+	internalName = "CAL Canon 30D - WB Tungsten",
+	title = "CAL Canon 30D - WB Tungsten",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3200,
+			Tint = -2,
+			WhiteBalance = "Custom",
+		},
+		uuid = "9BC71534-5284-4A57-8490-7D784D915715",
+	},
+	version = 0,
+}

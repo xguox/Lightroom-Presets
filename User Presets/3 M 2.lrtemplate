@@ -1,0 +1,32 @@
+s = {
+	id = "8903A02D-BE40-4EFB-967F-8D3CA021405B",
+	internalName = "3 M 2",
+	title = "3 M 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				64,
+				192,
+				130,
+				64,
+				192,
+				192,
+				255,
+				0,
+			},
+			ToneCurveName = "Custom",
+		},
+		uuid = "C729AF0A-DB4B-4CEA-B62B-A70F71C2A2EA",
+	},
+	version = 0,
+}

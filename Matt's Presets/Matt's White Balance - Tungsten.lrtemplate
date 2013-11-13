@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Tungsten",
+	title = "Matt's White Balance - Tungsten",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 2850,
+			Tint = 0,
+			WhiteBalance = "Tungsten",
+		},
+		uuid = "A9E11AD6-61B3-495C-97B5-3FFE70E7D023",
+	},
+	version = 0,
+}

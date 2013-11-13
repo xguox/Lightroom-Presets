@@ -1,0 +1,25 @@
+s = {
+	id = "C:\\Users\\mUSicX\\AppData\\Roaming\\Adobe\\Lightroom\\Develop Presets\\Color\\LR Adventure Solarize.lrtemplate",
+	internalName = "LR Adventure Solarize",
+	title = "COL LR Adventure Solarize",
+	type = "Develop",
+	value = {
+		settings = {
+			ToneCurve = {
+				0,
+				0,
+				64,
+				70,
+				200,
+				100,
+				230,
+				200,
+				255,
+				255,
+			},
+			ToneCurveName = "LR Adventure Solarize",
+		},
+		uuid = "64288E0F-C35C-47B7-8652-E8E1B9F3C240",
+	},
+	version = 0,
+}

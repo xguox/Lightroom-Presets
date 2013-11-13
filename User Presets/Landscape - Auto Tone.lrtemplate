@@ -1,0 +1,27 @@
+s = {
+	id = "936889FE-FE9F-47FB-B488-48B0CEB288EA",
+	internalName = "Landscape - Auto Tone",
+	title = "Landscape - Auto Tone",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Landscape beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "0155734B-B9AC-4C0E-B488-ACF7114AC1E0",
+	},
+	version = 0,
+}

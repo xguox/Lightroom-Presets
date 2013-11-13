@@ -1,0 +1,15 @@
+s = {
+	id = "C825B0FB-3DFD-41C2-A4B3-468547F5A0C7",
+	internalName = "Matt's Edge Lightening 2 (Narrow)",
+	title = "Matt's Edge Lightening 2 (Narrow)",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = 63,
+			VignetteMidpoint = 45,
+		},
+		uuid = "8E29C266-C0E0-47DE-B3F4-809FDB8465A6",
+	},
+	version = 0,
+}

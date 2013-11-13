@@ -1,0 +1,17 @@
+s = {
+	internalName = "Children",
+	title = "Children",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "mom",
+		shortcut2title = "dad",
+		shortcut3title = "family",
+		shortcut4title = "sister",
+		shortcut5title = "baby",
+		shortcut6title = "newborn",
+		shortcut7title = "boy",
+		shortcut8title = "girl",
+		shortcut9title = "brother",
+	},
+	version = 0,
+}

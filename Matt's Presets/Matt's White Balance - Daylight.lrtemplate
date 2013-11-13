@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Daylight",
+	title = "Matt's White Balance - Daylight",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 10,
+			WhiteBalance = "Daylight",
+		},
+		uuid = "DFEB2DB8-4D0B-48FE-9872-D6D34C720494",
+	},
+	version = 0,
+}

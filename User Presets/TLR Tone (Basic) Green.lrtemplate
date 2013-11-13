@@ -1,0 +1,28 @@
+s = {
+	id = "3994E51A-754E-4F1F-9571-24B6097EA7BC",
+	internalName = "TLR Tone (Basic) Green",
+	title = "TLR Tone (Basic) Green",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 55,
+			SplitToningHighlightHue = 137,
+			SplitToningHighlightSaturation = 3,
+			SplitToningShadowHue = 153,
+			SplitToningShadowSaturation = 32,
+		},
+		uuid = "1F0E6573-D215-4231-8D67-172246FAF760",
+	},
+	version = 0,
+}

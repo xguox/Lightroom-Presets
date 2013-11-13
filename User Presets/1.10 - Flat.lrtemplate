@@ -1,0 +1,26 @@
+s = {
+	id = "5389FBEF-73FC-47B5-B232-37F53F2800B0",
+	internalName = "1.10 - Flat",
+	title = "1.10 - Flat",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "A03949CB-AF6A-4355-B771-F6DCB94F023F",
+	},
+	version = 0,
+}

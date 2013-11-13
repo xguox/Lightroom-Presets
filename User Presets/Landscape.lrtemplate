@@ -1,0 +1,22 @@
+s = {
+	id = "1E86363C-C682-468E-B742-4429AB44D80C",
+	internalName = "Landscape",
+	title = "Landscape",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Landscape beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "DED17DCB-7AA3-4F25-8049-84BE16DE27FE",
+	},
+	version = 0,
+}

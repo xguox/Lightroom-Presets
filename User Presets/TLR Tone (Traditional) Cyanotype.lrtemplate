@@ -1,0 +1,28 @@
+s = {
+	id = "85A3A303-187E-4CDB-B3FE-2D1AD0065585",
+	internalName = "TLR Tone (Traditional) Cyanotype",
+	title = "TLR Tone (Traditional) Cyanotype",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = -14,
+			SplitToningHighlightHue = 218,
+			SplitToningHighlightSaturation = 28,
+			SplitToningShadowHue = 227,
+			SplitToningShadowSaturation = 50,
+		},
+		uuid = "E1B4152A-DC32-4C95-BFA5-6538489935BA",
+	},
+	version = 0,
+}

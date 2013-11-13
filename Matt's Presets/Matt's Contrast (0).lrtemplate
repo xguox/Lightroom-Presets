@@ -1,0 +1,25 @@
+s = {
+	internalName = "Matt's Contrast (0)",
+	title = "Matt's Contrast (0)",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				255,
+				255,
+			},
+			ToneCurveName = "Medium Contrast",
+		},
+		uuid = "A775A21E-8605-426D-AD37-85714DC7F88C",
+	},
+	version = 0,
+}

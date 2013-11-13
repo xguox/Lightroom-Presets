@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Cloudy",
+	title = "Matt's White Balance - Cloudy",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Cloudy",
+		},
+		uuid = "9E22ABBF-947C-438B-A3D2-75A58294D969",
+	},
+	version = 0,
+}

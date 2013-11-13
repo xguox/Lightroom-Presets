@@ -1,0 +1,18 @@
+s = {
+	id = "8819F412-59B9-4819-B2CB-A4A2E77C4AC3",
+	internalName = "1.05 - RAW Default",
+	title = "1.05 - RAW Default",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 50,
+			Contrast = 25,
+			Shadows = 5,
+		},
+		uuid = "A5410E89-0DDA-451D-BB33-5854B7322FF6",
+	},
+	version = 0,
+}

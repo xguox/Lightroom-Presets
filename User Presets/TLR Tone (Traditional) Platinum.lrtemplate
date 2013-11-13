@@ -1,0 +1,28 @@
+s = {
+	id = "CB35200F-56C4-46E8-BB78-93B550AAA1D5",
+	internalName = "TLR Tone (Traditional) Platinum",
+	title = "TLR Tone (Traditional) Platinum",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 38,
+			SplitToningHighlightSaturation = 3,
+			SplitToningShadowHue = 40,
+			SplitToningShadowSaturation = 8,
+		},
+		uuid = "4386EE7D-ABDB-414F-938D-F73C7847AE32",
+	},
+	version = 0,
+}

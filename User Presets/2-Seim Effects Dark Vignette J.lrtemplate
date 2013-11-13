@@ -1,0 +1,14 @@
+s = {
+	id = "A56CB20A-EE3A-40E9-A962-3C4921BBE7DC",
+	internalName = "2-Seim Effects Dark Vignette J",
+	title = "2-Seim Effects Dark Vignette J",
+	type = "Develop",
+	value = {
+		settings = {
+			VignetteAmount = -100,
+			VignetteMidpoint = 20,
+		},
+		uuid = "4B4771E2-2D3B-4939-834F-AFD59BBDFE25",
+	},
+	version = 0,
+}

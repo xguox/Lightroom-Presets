@@ -1,0 +1,28 @@
+s = {
+	id = "79A2E73C-C510-4B6C-A9BC-600C5157B122",
+	internalName = "TLR Tone (Traditional) Selenium Brown",
+	title = "TLR Tone (Traditional) Selenium Brown",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 33,
+			SplitToningHighlightHue = 40,
+			SplitToningHighlightSaturation = 7,
+			SplitToningShadowHue = 40,
+			SplitToningShadowSaturation = 19,
+		},
+		uuid = "1CE5A8E1-2928-4C84-B9EA-8AF7A2A98F15",
+	},
+	version = 0,
+}

@@ -1,0 +1,15 @@
+s = {
+	id = "285BF1EF-B4DB-4175-B0C0-003A29E1A525",
+	internalName = "Vignette",
+	title = "Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			VignetteAmount = -83,
+			VignetteMidpoint = 50,
+		},
+		uuid = "42522818-D650-4A77-9095-382264695E2E",
+	},
+	version = 0,
+}

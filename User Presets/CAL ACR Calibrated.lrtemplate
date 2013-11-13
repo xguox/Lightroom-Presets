@@ -1,0 +1,21 @@
+s = {
+	id = "04C24FC2-AAC4-467F-BA3D-25A5A5E209E3",
+	internalName = "CAL ACR Calibrated",
+	title = "CAL ACR Calibrated",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 4,
+			BlueSaturation = -16,
+			CameraProfile = "ACR 3.4",
+			EnableCalibration = true,
+			GreenHue = -22,
+			GreenSaturation = -19,
+			RedHue = -23,
+			RedSaturation = 51,
+			ShadowTint = 0,
+		},
+		uuid = "3BD6AD05-2C17-4E83-AE7D-3B1443BDF3DB",
+	},
+	version = 0,
+}

@@ -1,0 +1,19 @@
+s = {
+	id = "FC5B36FB-A282-42BC-8005-59CFD4927A9D",
+	internalName = "WOW-d_BnW_00_Auto+Tone 2",
+	title = "WOW-d_BnW_00_Auto+Tone 2",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoGrayscaleMix = true,
+			AutoShadows = false,
+			AutoTone = true,
+			ConvertToGrayscale = true,
+		},
+		uuid = "DC54042A-393D-4DB4-B67C-696C0E1CE8BC",
+	},
+	version = 0,
+}

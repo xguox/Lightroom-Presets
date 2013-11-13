@@ -1,0 +1,28 @@
+s = {
+	id = "67CC5416-D8BC-4EF1-A022-A6A1862284EB",
+	internalName = "TLR Tone (Basic) Brown",
+	title = "TLR Tone (Basic) Brown",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 1,
+			SplitToningShadowHue = 7,
+			SplitToningShadowSaturation = 10,
+		},
+		uuid = "4DE533CF-2CC4-4D2C-80B2-134CF7141252",
+	},
+	version = 0,
+}

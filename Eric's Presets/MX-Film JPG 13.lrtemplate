@@ -1,0 +1,27 @@
+s = {
+	id = "7B608C9F-76A3-49E6-A9B2-AD98765FDFD3",
+	internalName = "MX-Film JPG 13",
+	title = "MX-Film JPG 13",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoExposure = false,
+			AutoShadows = false,
+			EnableSplitToning = true,
+			Exposure = 0.41,
+			FillLight = 0,
+			HighlightRecovery = 0,
+			IncrementalTemperature = 10,
+			IncrementalTint = 0,
+			Shadows = 0,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 203,
+			SplitToningHighlightSaturation = 34,
+			SplitToningShadowHue = 194,
+			SplitToningShadowSaturation = 36,
+			WhiteBalance = "Custom",
+		},
+		uuid = "F76766AE-EC6C-4191-AB2D-86EE4F3AFDAC",
+	},
+	version = 0,
+}

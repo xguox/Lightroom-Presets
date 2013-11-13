@@ -1,0 +1,17 @@
+s = {
+	internalName = "Baseball",
+	title = "Baseball",
+	type = "KeywordSet",
+	value = {
+		shortcut1title = "throwing",
+		shortcut2title = "tagging",
+		shortcut3title = "sliding",
+		shortcut4title = "out",
+		shortcut5title = "standing",
+		shortcut6title = "catching",
+		shortcut7title = "baseball",
+		shortcut8title = "batting",
+		shortcut9title = "running",
+	},
+	version = 0,
+}

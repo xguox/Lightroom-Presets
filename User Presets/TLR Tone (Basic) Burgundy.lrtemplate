@@ -1,0 +1,28 @@
+s = {
+	id = "5FFA2900-51CC-47D7-B9C1-95CF6EB6A242",
+	internalName = "TLR Tone (Basic) Burgundy",
+	title = "TLR Tone (Basic) Burgundy",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 346,
+			SplitToningHighlightSaturation = 2,
+			SplitToningShadowHue = 347,
+			SplitToningShadowSaturation = 9,
+		},
+		uuid = "EE1098A1-47CB-4DCD-80ED-AC7F84F21220",
+	},
+	version = 0,
+}

@@ -1,0 +1,28 @@
+s = {
+	id = "11A071F2-10FB-4161-A7C8-236A8AE9CB20",
+	internalName = "TLR Tone (Multi Tones) Aqua Gold",
+	title = "TLR Tone (Multi Tones) Aqua Gold",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 24,
+			SplitToningHighlightHue = 58,
+			SplitToningHighlightSaturation = 15,
+			SplitToningShadowHue = 76,
+			SplitToningShadowSaturation = 23,
+		},
+		uuid = "1198E9C2-2E6B-49B9-9CDD-E47CB2C409A4",
+	},
+	version = 0,
+}

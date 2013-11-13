@@ -1,0 +1,18 @@
+s = {
+	id = "7E35942B-BA5C-40AF-88DA-E8116FECC6EF",
+	internalName = "1.02 - JPG Enhance",
+	title = "1.02 - JPG Enhance",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoShadows = false,
+			Brightness = 10,
+			Contrast = 10,
+			Shadows = 5,
+		},
+		uuid = "0DA08C04-594A-4B6B-A26F-FE66BDFA6A07",
+	},
+	version = 0,
+}

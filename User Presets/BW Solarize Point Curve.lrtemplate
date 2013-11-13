@@ -1,0 +1,33 @@
+s = {
+	id = "236D6A88-613A-415D-A849-627C21C4EF2D",
+	internalName = "BW Solarize Point Curve",
+	title = "BW Solarize Point Curve",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoGrayscaleMix = true,
+			ConvertToGrayscale = true,
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				80,
+				174,
+				129,
+				133,
+				173,
+				215,
+				255,
+				0,
+			},
+		},
+		uuid = "BD120158-3FDE-4ECF-A722-BC5F3D17160B",
+	},
+	version = 0,
+}

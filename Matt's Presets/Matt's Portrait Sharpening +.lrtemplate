@@ -1,0 +1,17 @@
+s = {
+	id = "C:\\Documents and Settings\\Eric\\Application Data\\Adobe\\Lightroom\\Develop Presets\\Matt's Presets\\Matt's Portrait Sharpening (A little).lrtemplate",
+	internalName = "Matt's Portrait Sharpening (A little)",
+	title = "Matt's Portrait Sharpening +",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 40,
+			SharpenEdgeMasking = 90,
+			SharpenRadius = 1,
+			Sharpness = 70,
+		},
+		uuid = "65D98717-7856-45C5-9EDF-940BC9131DE9",
+	},
+	version = 0,
+}

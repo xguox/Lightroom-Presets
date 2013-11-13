@@ -1,0 +1,28 @@
+s = {
+	id = "8D80FDDD-483D-4811-8701-25D3761AD458",
+	internalName = "TLR Tone (Color Cast) Warmer Gray",
+	title = "TLR Tone (Color Cast) Warmer Gray",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			EnableSplitToning = true,
+			GrayMixerAqua = -19,
+			GrayMixerBlue = 8,
+			GrayMixerGreen = -25,
+			GrayMixerMagenta = 5,
+			GrayMixerOrange = -16,
+			GrayMixerPurple = 15,
+			GrayMixerRed = -7,
+			GrayMixerYellow = -20,
+			SplitToningBalance = 60,
+			SplitToningHighlightHue = 22,
+			SplitToningHighlightSaturation = 2,
+			SplitToningShadowHue = 26,
+			SplitToningShadowSaturation = 23,
+		},
+		uuid = "8DC17B98-5D43-4B36-B695-43EFE275A005",
+	},
+	version = 0,
+}

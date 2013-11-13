@@ -1,0 +1,28 @@
+s = {
+	id = "F6E34B77-B748-46F1-86FD-3AB8D4BFAC08",
+	internalName = "CP Red",
+	title = "CP Red",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 54,
+			Contrast = 34,
+			EnableSplitToning = true,
+			Exposure = 0.22,
+			FillLight = 23,
+			HighlightRecovery = 32,
+			Shadows = 7,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 315,
+			SplitToningHighlightSaturation = 34,
+			SplitToningShadowHue = 56,
+			SplitToningShadowSaturation = 18,
+		},
+		uuid = "27C6AA3B-A309-4A26-A114-96E7124EF2A4",
+	},
+	version = 0,
+}

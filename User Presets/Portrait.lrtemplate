@@ -1,0 +1,22 @@
+s = {
+	id = "1699049A-C611-4454-B8AF-8D659702A58D",
+	internalName = "Portrait",
+	title = "Portrait",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Portrait beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "AFCBD63F-CAF6-4E04-AB76-6C16CF59A5F6",
+	},
+	version = 0,
+}

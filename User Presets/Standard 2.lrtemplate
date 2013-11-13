@@ -1,0 +1,22 @@
+s = {
+	id = "741025DF-DF78-4686-B803-5904A27AD7E5",
+	internalName = "Standard 2",
+	title = "Standard 2",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera Standard beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "C182E0BB-5952-424F-8E5E-0BC50B97CD11",
+	},
+	version = 0,
+}

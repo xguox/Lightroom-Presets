@@ -1,0 +1,22 @@
+s = {
+	id = "FE3CD6E5-8672-487C-A172-ABD1738B70B6",
+	internalName = "Nikon D2X Mode 3",
+	title = "Nikon D2X Mode 3",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera D2X Mode 3 beta 1",
+			ConvertToGrayscale = false,
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "E2B3C8CF-716F-449F-86A0-A4135697D662",
+	},
+	version = 0,
+}

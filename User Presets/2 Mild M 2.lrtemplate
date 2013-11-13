@@ -1,0 +1,32 @@
+s = {
+	id = "E5A5BBF7-32BC-455A-B717-7C20E5E58E27",
+	internalName = "2 Mild M 2",
+	title = "2 Mild M 2",
+	type = "Develop",
+	value = {
+		settings = {
+			ParametricDarks = 0,
+			ParametricHighlightSplit = 75,
+			ParametricHighlights = 0,
+			ParametricLights = 0,
+			ParametricMidtoneSplit = 50,
+			ParametricShadowSplit = 25,
+			ParametricShadows = 0,
+			ToneCurve = {
+				0,
+				0,
+				64,
+				90,
+				128,
+				128,
+				168,
+				194,
+				255,
+				255,
+			},
+			ToneCurveName = "Custom",
+		},
+		uuid = "B321267C-23BC-439F-A3BB-1278EBB9CDE2",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Shade",
+	title = "Matt's White Balance - Shade",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 7500,
+			Tint = 10,
+			WhiteBalance = "Shade",
+		},
+		uuid = "29F97050-12E9-49A8-A809-D9878D177A5A",
+	},
+	version = 0,
+}

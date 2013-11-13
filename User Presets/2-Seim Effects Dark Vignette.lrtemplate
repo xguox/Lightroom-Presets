@@ -1,0 +1,19 @@
+s = {
+	id = "4568ADC5-58E0-4115-8612-692D3FE312E9",
+	internalName = "2-Seim Effects Dark Vignette",
+	title = "2-Seim Effects Dark Vignette",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableVignettes = true,
+			PostCropVignetteAmount = 0,
+			PostCropVignetteFeather = 0,
+			PostCropVignetteMidpoint = 0,
+			PostCropVignetteRoundness = 0,
+			VignetteAmount = -100,
+			VignetteMidpoint = 20,
+		},
+		uuid = "2973CC98-D2DF-472B-8857-DAE6AD8F2BDF",
+	},
+	version = 0,
+}

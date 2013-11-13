@@ -1,0 +1,17 @@
+s = {
+	id = "C:\\Documents and Settings\\Eric\\Application Data\\Adobe\\Lightroom\\Develop Presets\\Matt's Presets\\Matt's Landscape Sharpening (A little).lrtemplate",
+	internalName = "Matt's Landscape Sharpening (A little)",
+	title = "Matt's Landscape Sharpening +",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableDetail = true,
+			SharpenDetail = 55,
+			SharpenEdgeMasking = 25,
+			SharpenRadius = 1,
+			Sharpness = 75,
+		},
+		uuid = "CACE4D51-5C84-4029-A414-423384F0B1B1",
+	},
+	version = 0,
+}

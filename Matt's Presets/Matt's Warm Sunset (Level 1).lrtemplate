@@ -1,0 +1,16 @@
+s = {
+	internalName = "Matt's Warm Sunset (Level 1)",
+	title = "Matt's Warm Sunset (Level 1)",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+			IncrementalTemperature = 43,
+			IncrementalTint = 15,
+			Saturation = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "FBF036D3-0392-4A17-998D-6C60FB5F6EDE",
+	},
+	version = 0,
+}

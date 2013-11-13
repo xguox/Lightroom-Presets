@@ -1,0 +1,15 @@
+s = {
+	id = "8354D281-99FF-449C-A4EB-A57692988932",
+	internalName = "WOW-a_WB-Daylight+ 2",
+	title = "WOW-a_WB-Daylight+ 2",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 4872.3403811455,
+			Tint = 0,
+			WhiteBalance = "Custom",
+		},
+		uuid = "E19F388C-E049-4D2B-822D-1CBCD7846AEE",
+	},
+	version = 0,
+}

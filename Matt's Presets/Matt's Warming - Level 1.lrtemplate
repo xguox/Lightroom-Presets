@@ -1,0 +1,17 @@
+s = {
+	internalName = "Matt's Warming - Level 1",
+	title = "Matt's Warming - Level 1",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 61,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 48,
+			SplitToningShadowSaturation = 58,
+		},
+		uuid = "9181F75D-B1C0-464C-859B-A228F3D78261",
+	},
+	version = 0,
+}

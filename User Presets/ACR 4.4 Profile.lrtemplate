@@ -1,0 +1,14 @@
+s = {
+	id = "AC1C2C73-7F1B-4354-A5B5-0DAE85DD9595",
+	internalName = "ACR 4.4 Profile",
+	title = "ACR 4.4 Profile",
+	type = "Develop",
+	value = {
+		settings = {
+			CameraProfile = "ACR 4.4",
+			EnableCalibration = true,
+		},
+		uuid = "839C4988-A5B4-4EC1-A031-A12BB1A3E0CB",
+	},
+	version = 0,
+}

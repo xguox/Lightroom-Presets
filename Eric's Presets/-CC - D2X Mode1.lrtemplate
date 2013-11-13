@@ -1,0 +1,21 @@
+s = {
+	id = "57EB1577-2B9E-45B6-9213-3F8BC6EC9866",
+	internalName = "*CC - D2X Mode1",
+	title = "*CC - D2X Mode1",
+	type = "Develop",
+	value = {
+		settings = {
+			BlueHue = 0,
+			BlueSaturation = 0,
+			CameraProfile = "Camera D2X Mode 1",
+			EnableCalibration = true,
+			GreenHue = 0,
+			GreenSaturation = 0,
+			RedHue = 0,
+			RedSaturation = 0,
+			ShadowTint = 0,
+		},
+		uuid = "F1962A41-8C56-4524-95C0-219CDB437667",
+	},
+	version = 0,
+}

@@ -1,0 +1,18 @@
+s = {
+	id = "C5E75198-8753-4523-9EC9-CBEBE3B7796F",
+	internalName = "MX-FilmSense",
+	title = "MX-Film JPG 1",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 0,
+			SplitToningHighlightHue = 51,
+			SplitToningHighlightSaturation = 32,
+			SplitToningShadowHue = 240,
+			SplitToningShadowSaturation = 30,
+		},
+		uuid = "DF3E3B26-3E42-497C-AFBD-4E995FF54986",
+	},
+	version = 0,
+}

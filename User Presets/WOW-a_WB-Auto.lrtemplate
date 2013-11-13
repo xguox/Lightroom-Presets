@@ -1,0 +1,13 @@
+s = {
+	id = "2E21FEFF-608F-40F7-BF6C-8ECFD91978CE",
+	internalName = "WOW-a_WB-Auto",
+	title = "WOW-a_WB-Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "9D08AB0C-B745-4454-9544-AC14E221EE09",
+	},
+	version = 0,
+}

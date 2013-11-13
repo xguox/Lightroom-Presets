@@ -1,0 +1,27 @@
+s = {
+	id = "20338267-6717-4540-873B-0A4F68CA2AC6",
+	internalName = "WOW-d_BnW_04",
+	title = "WOW-d_BnW_04",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = -40,
+			GrayMixerBlue = -21,
+			GrayMixerGreen = 28,
+			GrayMixerMagenta = 6,
+			GrayMixerOrange = 15,
+			GrayMixerPurple = 20,
+			GrayMixerRed = -9,
+			GrayMixerYellow = 51,
+		},
+		uuid = "654C4B9C-CC82-4046-BACC-644CDCFF375A",
+	},
+	version = 0,
+}

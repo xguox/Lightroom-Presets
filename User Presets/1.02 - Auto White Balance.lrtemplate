@@ -1,0 +1,13 @@
+s = {
+	id = "4E3DAA94-F9CB-4F7F-9237-310ED20D7D1C",
+	internalName = "1.02 - Auto White Balance",
+	title = "1.02 - Auto White Balance",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "0C7FBA45-187B-4CD9-8F37-2B8C84E58371",
+	},
+	version = 0,
+}
