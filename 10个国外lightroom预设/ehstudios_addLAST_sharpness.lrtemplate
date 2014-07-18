@@ -1,0 +1,21 @@
+s = {
+	internalName = "ehstudios_addLAST_sharpness",
+	title = "ehstudios_addLAST_sharpness",
+	type = "Develop",
+	value = {
+		settings = {
+			Clarity = 30,
+			ColorNoiseReduction = 25,
+			ConvertToGrayscale = false,
+			EnableDetail = true,
+			EnableGrayscaleMix = true,
+			LuminanceSmoothing = 20,
+			SharpenDetail = 50,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 50,
+		},
+		uuid = "E3A68073-9452-4ACE-A3F1-B22F392E466C",
+	},
+	version = 0,
+}

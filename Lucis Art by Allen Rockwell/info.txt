@@ -1,0 +1,11 @@
+It's a 2 step process ... apply the preset in Lightroom and play around with the develop sliders to get the basic look you want (every image will look different, adjust to your liking) ... and then edit the image in Photoshop following these steps.
+
+1. Duplicate the background layer (CMD J or CTL J)
+
+2. Apply Gausian Blur filter to Layer 1 with a value of about 20 pixels
+
+3. Reduce the opacity of Layer 1 to about 50%
+
+4. Click the Add Layer Mask Button (at the bottom of the Layers palette) then select the brush tool with a soft edge and paint (mask) areas you want to keep sharp like eyes, nose, mouth.
+
+5. (Optional Step) Select the background layer and then grab the Smudge Tool (R) and soften further areas that you think still show too much detail (like skin).

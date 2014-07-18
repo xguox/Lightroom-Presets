@@ -1,0 +1,28 @@
+s = {
+	id = "40458CCF-C620-4668-BF7F-16A256D71699",
+	internalName = "AdB_HDRlike",
+	title = "AdB_HDRlike",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			Brightness = 0,
+			Contrast = 0,
+			EnableDetail = true,
+			Exposure = 0.5,
+			FillLight = 100,
+			HighlightRecovery = 0,
+			Shadows = 100,
+			SharpenDetail = 25,
+			SharpenEdgeMasking = 0,
+			SharpenRadius = 1,
+			Sharpness = 60,
+			WhiteBalance = "As Shot",
+		},
+		uuid = "46FC4F84-78C1-4B9D-9A94-FD50AD26B837",
+	},
+	version = 0,
+}

@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOW-a_WB-Tungsten",
+	title = "WOW-a_WB-Tungsten",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 2850,
+			Tint = 0,
+			WhiteBalance = "Tungsten",
+		},
+		uuid = "EEAB1D16-3064-41BC-9700-F8F148AC3F23",
+	},
+	version = 0,
+}

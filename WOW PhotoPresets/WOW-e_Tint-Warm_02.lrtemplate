@@ -1,0 +1,17 @@
+s = {
+	internalName = "WOWe Tnt-Sepia 02",
+	title = "WOW-e_Tint-Warm_02",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 85,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 50,
+			SplitToningShadowSaturation = 73,
+		},
+		uuid = "EF79978F-8544-407A-9867-8B0DD68A714C",
+	},
+	version = 0,
+}

@@ -1,0 +1,42 @@
+s = {
+	id = "F13B4EE7-761C-42A0-9E62-FF4FB0E1E70F",
+	internalName = "W0W-Gradient L03",
+	title = "W0W-Gradient L03",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableGradientBasedCorrections = true,
+			GradientBasedCorrections = {
+				{
+					CorrectionActive = true,
+					CorrectionAmount = 1,
+					CorrectionID = "3E654296-35B5-42B8-82D8-C71E0E1D85BF",
+					CorrectionMasks = {
+						{
+							FullX = 0.447052,
+							FullY = 0.00598,
+							MaskID = "110B5D71-A2DD-44A5-BF39-7AC90DA5CE3B",
+							MaskValue = 1,
+							What = "Mask/Gradient",
+							ZeroX = 0.447902,
+							ZeroY = 0.614716,
+						},
+					},
+					CorrectionReferenceX = 0.447477,
+					CorrectionReferenceY = 0.310348,
+					LocalBrightness = -0.075,
+					LocalClarity = 0.346322,
+					LocalContrast = 0.149425,
+					LocalExposure = -0.0625,
+					LocalSaturation = 0.149425,
+					LocalSharpness = 0,
+					LocalToningHue = 73,
+					LocalToningSaturation = 0,
+					What = "Correction",
+				},
+			},
+		},
+		uuid = "9300B8C1-4ADE-4C12-B5DA-6D5D885C502D",
+	},
+	version = 0,
+}

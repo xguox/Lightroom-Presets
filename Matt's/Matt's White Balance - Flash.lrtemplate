@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Flash",
+	title = "Matt's White Balance - Flash",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 0,
+			WhiteBalance = "Flash",
+		},
+		uuid = "68F2252D-C757-4053-B813-925192B1EC85",
+	},
+	version = 0,
+}

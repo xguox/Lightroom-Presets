@@ -1,0 +1,12 @@
+s = {
+	internalName = "WOW-a_WB-As Shot",
+	title = "WOW-a_WB-As Shot",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "As Shot",
+		},
+		uuid = "FD360253-D790-423A-BEBE-9A1F6B204DBC",
+	},
+	version = 0,
+}

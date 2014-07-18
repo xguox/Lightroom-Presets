@@ -1,0 +1,17 @@
+s = {
+	internalName = "ehstudios_addLAST_warmth",
+	title = "ehstudios_addLAST_warmth",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 15,
+			SplitToningHighlightHue = 35,
+			SplitToningHighlightSaturation = 10,
+			SplitToningShadowHue = 35,
+			SplitToningShadowSaturation = 15,
+		},
+		uuid = "E33F17FC-2D3D-4F9E-9E46-949BB6D0B4DD",
+	},
+	version = 0,
+}

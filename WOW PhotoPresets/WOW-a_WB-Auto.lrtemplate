@@ -1,0 +1,12 @@
+s = {
+	internalName = "WOWa Ato-White Balance",
+	title = "WOW-a_WB-Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			WhiteBalance = "Auto",
+		},
+		uuid = "D523BC13-9081-4A11-8316-3F4A7ED777F1",
+	},
+	version = 0,
+}

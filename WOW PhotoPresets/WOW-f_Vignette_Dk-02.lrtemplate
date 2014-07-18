@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOWf Vig Dk-02",
+	title = "WOW-f_Vignette_Dk-02",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableLensCorrections = true,
+			VignetteAmount = -51,
+			VignetteMidpoint = 50,
+		},
+		uuid = "5EF2F7C5-E78F-4BC0-AFB7-9B3B6EE3A0A7",
+	},
+	version = 0,
+}

@@ -1,0 +1,17 @@
+s = {
+	internalName = "WOWe Tnt-Cyan 05",
+	title = "WOW-e_Tint-Cool_05",
+	type = "Develop",
+	value = {
+		settings = {
+			EnableSplitToning = true,
+			SplitToningBalance = 100,
+			SplitToningHighlightHue = 0,
+			SplitToningHighlightSaturation = 0,
+			SplitToningShadowHue = 226,
+			SplitToningShadowSaturation = 100,
+		},
+		uuid = "4DD6F330-4EB8-4E19-B703-CDCC0C8341F9",
+	},
+	version = 0,
+}

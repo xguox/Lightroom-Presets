@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOW-a_WB-Cloudy",
+	title = "WOW-a_WB-Cloudy",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 6500,
+			Tint = 10,
+			WhiteBalance = "Cloudy",
+		},
+		uuid = "D33B3936-0E48-496F-8E09-31C3C63971B7",
+	},
+	version = 0,
+}

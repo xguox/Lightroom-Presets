@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOW-a_WB-Florescent",
+	title = "WOW-a_WB-Florescent",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3800,
+			Tint = 21,
+			WhiteBalance = "Fluorescent",
+		},
+		uuid = "1A33BC8D-4F1F-4EC9-99B7-DA882A678C90",
+	},
+	version = 0,
+}

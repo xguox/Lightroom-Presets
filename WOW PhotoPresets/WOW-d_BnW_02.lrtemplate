@@ -1,0 +1,26 @@
+s = {
+	internalName = "WOWb B&W 02",
+	title = "WOW-d_BnW_02",
+	type = "Develop",
+	value = {
+		settings = {
+			AutoBrightness = false,
+			AutoContrast = false,
+			AutoExposure = false,
+			AutoShadows = false,
+			AutoTone = true,
+			ConvertToGrayscale = true,
+			EnableGrayscaleMix = true,
+			GrayMixerAqua = 80,
+			GrayMixerBlue = -100,
+			GrayMixerGreen = 100,
+			GrayMixerMagenta = 63,
+			GrayMixerOrange = 48,
+			GrayMixerPurple = -10,
+			GrayMixerRed = 17,
+			GrayMixerYellow = 100,
+		},
+		uuid = "C1509ED1-EE12-4A2C-93A5-3136A008D99D",
+	},
+	version = 0,
+}

@@ -1,0 +1,12 @@
+s = {
+	internalName = "WOW-d_BnW_00_Auto",
+	title = "WOW-d_BnW_00_Auto",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+		},
+		uuid = "F711D778-30CF-439D-8030-7185AE0838F7",
+	},
+	version = 0,
+}

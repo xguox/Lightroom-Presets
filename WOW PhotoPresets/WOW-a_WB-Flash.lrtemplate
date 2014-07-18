@@ -1,0 +1,14 @@
+s = {
+	internalName = "WOW-a_WB-Flash",
+	title = "WOW-a_WB-Flash",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 5500,
+			Tint = 0,
+			WhiteBalance = "Flash",
+		},
+		uuid = "FFD07B44-E055-4246-9ABA-46821240C593",
+	},
+	version = 0,
+}

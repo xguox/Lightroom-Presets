@@ -1,0 +1,15 @@
+s = {
+	internalName = "WOW-f_Vignette-----Reset-----",
+	title = "WOW-f_Vignette-----Reset-----",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = true,
+			EnableLensCorrections = true,
+			VignetteAmount = 0,
+			VignetteMidpoint = 50,
+		},
+		uuid = "517DB531-6D72-4B6B-AD51-96C322F3DF1D",
+	},
+	version = 0,
+}

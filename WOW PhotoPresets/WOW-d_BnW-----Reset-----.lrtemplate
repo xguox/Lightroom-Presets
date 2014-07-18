@@ -1,0 +1,12 @@
+s = {
+	internalName = "WOWd B&W__Auto",
+	title = "WOW-d_BnW-----Reset-----",
+	type = "Develop",
+	value = {
+		settings = {
+			ConvertToGrayscale = false,
+		},
+		uuid = "8CADC679-9E2F-4A19-8950-02CDC4CE89AA",
+	},
+	version = 0,
+}

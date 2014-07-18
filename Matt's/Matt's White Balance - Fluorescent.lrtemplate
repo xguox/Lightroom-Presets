@@ -1,0 +1,14 @@
+s = {
+	internalName = "Matt's White Balance - Fluorescent",
+	title = "Matt's White Balance - Fluorescent",
+	type = "Develop",
+	value = {
+		settings = {
+			Temperature = 3800,
+			Tint = 21,
+			WhiteBalance = "Fluorescent",
+		},
+		uuid = "8B7E85D9-0693-4D89-9C00-38132B3044C0",
+	},
+	version = 0,
+}
